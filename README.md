@@ -8,10 +8,10 @@ This Android app serves as a video game library, allowing users to search for th
 ![homepage](https://github.com/Anox-Leo/Game4You/blob/main/images/homepage.jpg)
 
 ### Game details page #1
-![game_details#1](https://github.com/Anox-Leo/Game4You/blob/main/images/game_details#1.jpg)
+![game_details#1](https://github.com/Anox-Leo/Game4You/blob/main/images/game_details%2321.jpg)
 
 ### Game details page #2
-![game_details#1](https://github.com/Anox-Leo/Game4You/blob/main/images/game_details#2.jpg)
+![game_details#1](https://github.com/Anox-Leo/Game4You/blob/main/images/game_details%2322.jpg)
 
 ## Usage
 
