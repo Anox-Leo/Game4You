@@ -1,6 +1,7 @@
 # Game4You
 
 This Android app serves as a video game library, allowing users to search for their favorite games and access detailed information about them. It uses freetogames.com API
+
 Developed in a single day as part of an intensive in-class evaluation.
 
 ## 📸 Preview
